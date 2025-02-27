@@ -11,8 +11,8 @@ Currently I have it so that it buys a stock no more than once a day, only if it 
 
 You can specify the $ amount for each purchase (and the x% drop to buy at).
 
-I don't havne't added a 'sell' function yet, but I can easy enough.
+It will also perform sales on your positions if they're up by a definable % from your average entry price.
 
-Currently my goal is simply for consistent daily easy buys when a stock drops, without having to monitor the market constantly. 
+Currently my goal is simply for consistent daily easy buys when a stock drops, without having to monitor the market constantly, as well as profit taking when possible.
 
-Suffice to say, if the stock doesn't drop the x% in a day, that stock won't have a buy for that day.
+Suffice to say, if the stock doesn't drop the x% in a day, that stock won't have a buy for that day. Same for sales.
